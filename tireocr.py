@@ -21,4 +21,4 @@ for image_file in image_files:
     print('Image:', image_file)
     print('Result:', result)
     print('---')
-    123123123213123
+    1231231232131233333s
