@@ -22,3 +22,4 @@ for image_file in image_files:
     print('Result:', result)
     print('---')
     1231231232131233333s33ss1231231232121312312312312312321333123
+			1210
