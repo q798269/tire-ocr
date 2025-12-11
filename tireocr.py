@@ -21,4 +21,5 @@ for image_file in image_files:
     print('Image:', image_file)
     print('Result:', result)
     print('---')
-    1124
+    1126
+
